@@ -1,0 +1,30 @@
+﻿index_column;Index column
+employee_age;Age of the employee
+attrition;Yes or No. Yes means the employee left the com...
+travel_in_job;rarely, frequently, never
+employee_department;Sales Department, R&D Department, HR Department
+distance_from_home;"Distance of the employee""s home from office"
+employee_education;1: 'Below College', 2: 'College', 3: 'Bachelor...
+workplace_satisfaction;1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very Hig...
+gender;Female, Male
+employee_job_involvement;1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High'
+job_level;Job level numeric value
+job_role;"Sales Executive', 'Scientist', 'Lab Technician', 
+'Production Director', 'Health Representative', 'Manager',  'Sales Rep', 'R&D Director', 'HR Personnel'"
+job_satisfaction;"Satisfaction with the job - numerical scale. 
+1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very Hig…"
+marital_status;1=divorced, 2=married, 3=single
+monthly_income;Numerical value - monthly salary
+numcompanies_worked;Numerical value - integer value
+over_time;Yes or No. 
+percent_salary_hike;Numerical value - percentage increase in salary
+performance_rating;Numerical value - performance rating
+relationship_satisfaction;Numerical Value - Relations Satisfaction
+stock_option_level;0: No stocks, 1: 'Low', 2: 'Medium', 3: 'High'
+total_working_years;Numerical value 
+training_times_last_year;Numerical value 
+work_life_balance;1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High'
+years_at_company;Numerical value 
+years_in_current_role;Numerical value 
+years_since_last_promotion;Numerical value 
+years_with_current_manager;Numerical value 
